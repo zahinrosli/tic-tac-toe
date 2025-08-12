@@ -1,3 +1,19 @@
 # Tic-Tac-Toe
-In this project, I build a Tic-Tac-Toe game using Python language in Studio Visual Code. Two players, X and O will take turns in picking their next move
-by entering the numbers in the command line. Any of those two players who successfully completed three consecutive identical marks (X or O) in a row, whether vertically, horizontally, or diagonally on a 3x3 grid, will be declared the game's winner.
+
+A **command-line Tic-Tac-Toe game** built in **Python** using **Visual Studio Code**.  
+Designed for **two players**, the game alternates turns between **X** and **O**.
+
+## 🎮 How It Works
+- 🟦 Played on a **3×3 grid** displayed in the terminal.  
+- ⌨️ Players select a cell by entering its corresponding number.  
+- 🏆 The first player to align **three identical marks**—vertically, horizontally, or diagonally—wins.  
+- 🤝 If all cells are filled with no winner, the game results in a draw.
+
+## ✨ Features
+- 🖥️ Clean and intuitive command-line interface.  
+- ⚡ Instant game state updates after each move.  
+- ✅ Input validation to prevent invalid or duplicate moves.
+
+## 🛠️ Built With
+- **Python** – core game logic and execution  
+- **Visual Studio Code** – development and testing environment
